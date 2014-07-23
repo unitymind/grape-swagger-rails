@@ -17,7 +17,7 @@ module GrapeSwaggerRails
     
     headers:              {},
     
-    api_auth:             '',        # 'basic'
+    api_auth:             '',        # 'basic', 'bearer'
     api_key_name:         'api_key', # 'Authorization'
     api_key_type:         'query',   # 'header'
     
